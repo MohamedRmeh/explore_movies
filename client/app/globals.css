@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(15, 12, 11);
+  color: white;
+}
+
+
+.images {
+  width: 600px;
+  height: 550px;
+}
